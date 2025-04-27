@@ -12,7 +12,7 @@
         If you need help, my DMs are open.
         @zHeyMoon
         
-## [ITA] - Istruzioni: ##
+## 🎍 - [ITA] - Istruzioni: ##
         1. Scarica **Official-Italian**
         
         2. Estrai i file in "Official-Italian"
