@@ -13,24 +13,24 @@
         @zHeyMoon
         
 ## 🎍 - [ITA] - Istruzioni: ##
-        1. Scarica **Official-Italian**
+1. Scarica **Official-Italian**
         
-        2. Estrai i file in "Official-Italian"
+2. Estrai i file in "Official-Italian"
                 (dovrebbe comparire una cartella "Official-italian"
                 con all'interno una cartella "fonts", "img" e un file dialogue.txt")
                 
-        3. Vai nella libreria di Steam e seleziona il gioco "The Coffin of Andy and Leyley"
+3. Vai nella libreria di Steam e seleziona il gioco "The Coffin of Andy and Leyley"
         
-        4. Premi su "Gestisci"
+4. Premi su "Gestisci"
                 (simbolo di un ingranaggio)
                 
-        5. Vai di nuovo su "Gestisci" > "Sfoglia i file locali"
+5. Vai di nuovo su "Gestisci" > "Sfoglia i file locali"
         
-        6. Entra nella cartella "www" > "languages"
+6. Entra nella cartella "www" > "languages"
         
-        7. Sposti dentro la cartella "Official-italian" estratta
+7. Sposti dentro la cartella "Official-italian" estratta
         
-        8. FINE 🎉
+8. FINE 🎉
                 (riavvia il gioco se è già in esecuzione)
 
 ## 🎍 - [ENG] - Instructions: ##
