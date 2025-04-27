@@ -10,3 +10,4 @@
 ## 🌙 - Need help or want to stay updated? ##
         Follow my X profile (Ex Twitter) to stay up to date with translation news and new project releases. 
         If you need help, my DMs are open.
+        @zHeyMoon
